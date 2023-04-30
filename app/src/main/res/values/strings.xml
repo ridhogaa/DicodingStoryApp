@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DicodingStoryApp</string>
+
+    <string name="email_invalid_format">Email format is invalid</string>
+    <string name="password_invalid_format">Password less than 8 characters</string>
+
+    <string name="username_empty">Username cannot be empty!</string>
+    <string name="email_empty">Email cannot be empty!</string>
+    <string name="password_empty">Password cannot be empty!</string>
+    <string name="description_empty">Description cannot be empty!</string>
+    <string name="add_story">Add Story</string>
+    <string name="sign_in">Sign In</string>
+    <string name="dont_have_an_account">Dont Have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="name">Name</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="write_your_description_here">Write your description here!</string>
+    <string name="upload_story">Upload Story Without location</string>
+    <string name="description">Description</string>
+    <string name="posted">Posted</string>
+    <string name="settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="dark_mode">Dark mode</string>
+    <string name="theme">Theme</string>
+    <string name="language">Language</string>
+    <string name="change_language">Change language</string>
+    <string name="white_mode">White mode</string>
+    <string name="detail_story">Detail Story</string>
+    <string name="version">Version 0.1</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="maps_story">Maps Story</string>
+    <string name="retry">Retry</string>
+    <string name="upload_story_with_ur_location">Upload story with location</string>
+
+</resources>
